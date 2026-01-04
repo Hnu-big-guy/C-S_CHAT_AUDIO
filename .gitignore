@@ -1,0 +1,45 @@
+# 编译产物
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 接收和发送的文件/图片
+received_files/
+received_images/
+sent_images/
+
+# 日志文件
+*.log
+logs/
+
+# 配置文件
+config.ini
+.env
+.env.local
+.env.*.local
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编译输出
+build/
+dist/
+*.egg-info/
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
