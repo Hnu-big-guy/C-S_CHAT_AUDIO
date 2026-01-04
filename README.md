@@ -169,9 +169,7 @@ python start_multiple_clients.py
 3. 提交代码更改
 4. 创建Pull Request
 
-## 许可证
 
-本项目采用MIT许可证，详见LICENSE文件。
 
 ## 联系方式
 
